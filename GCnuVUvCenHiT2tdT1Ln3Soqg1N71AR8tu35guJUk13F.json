@@ -1,0 +1,50 @@
+{
+    "name": "2BIT #759",
+    "symbol": "2BIT",
+    "description": "A collection of 2Bit NFT's on Solana",
+    "seller_fee_basis_points": 1000,
+    "image": "https://arweave.net/u4YLX67-QjDlRon9cCD5BqEKsyLqiNeGrY9_S3yfAfY?ext=png",
+    "external_url": "",
+    "edition": 759,
+    "attributes": [
+        {
+            "trait_type": "BG_Black&White",
+            "value": "BG Vantablack "
+        },
+        {
+            "trait_type": "Bottom",
+            "value": "2 Phantom "
+        },
+        {
+            "trait_type": "Top",
+            "value": "1 Dark Purple "
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/u4YLX67-QjDlRon9cCD5BqEKsyLqiNeGrY9_S3yfAfY?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "8vo3rYvQcLW4pD5HMkTPV9cKajsXZdkBu3B4r18drd9h",
+                "share": 45
+            },
+            {
+                "address": "7cYXHDRJVCDeorBj52YKNCuGKTJgaKgxZhZrisTXUhUD",
+                "share": 45
+            },
+            {
+                "address": "GjHbPmByVHGBGTrz6CQBXSB5tSNbu3Vwaakofbst4Ayd",
+                "share": 10
+            }
+        ]
+    },
+    "collection": {
+        "name": "2BIT Sol",
+        "family": "2BIT Sol"
+    }
+}

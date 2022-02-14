@@ -1,0 +1,50 @@
+{
+    "name": "2BIT #81",
+    "symbol": "2BIT",
+    "description": "A collection of 2Bit NFT's on Solana",
+    "seller_fee_basis_points": 1000,
+    "image": "https://arweave.net/r_Z_1rGZXvVcMAbgsf2KpyaVSBH5IXb_bjuo7F3rxh4?ext=png",
+    "external_url": "",
+    "edition": 81,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "BG Eclectic "
+        },
+        {
+            "trait_type": "Bottom",
+            "value": "2 Bitcoin "
+        },
+        {
+            "trait_type": "Top",
+            "value": "1 Bitcoin "
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/r_Z_1rGZXvVcMAbgsf2KpyaVSBH5IXb_bjuo7F3rxh4?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "8vo3rYvQcLW4pD5HMkTPV9cKajsXZdkBu3B4r18drd9h",
+                "share": 45
+            },
+            {
+                "address": "7cYXHDRJVCDeorBj52YKNCuGKTJgaKgxZhZrisTXUhUD",
+                "share": 45
+            },
+            {
+                "address": "GjHbPmByVHGBGTrz6CQBXSB5tSNbu3Vwaakofbst4Ayd",
+                "share": 10
+            }
+        ]
+    },
+    "collection": {
+        "name": "2BIT Sol",
+        "family": "2BIT Sol"
+    }
+}

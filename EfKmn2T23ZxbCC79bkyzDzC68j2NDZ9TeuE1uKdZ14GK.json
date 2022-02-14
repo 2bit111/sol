@@ -1,0 +1,50 @@
+{
+    "name": "2BIT #174",
+    "symbol": "2BIT",
+    "description": "A collection of 2Bit NFT's on Solana",
+    "seller_fee_basis_points": 1000,
+    "image": "https://arweave.net/Gr5TLaEDIFUuo5ed3ySPBLStbHsbAUO4NrpM6ta4e0s?ext=png",
+    "external_url": "",
+    "edition": 174,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "BG Punk "
+        },
+        {
+            "trait_type": "Bottom",
+            "value": "2 Latte "
+        },
+        {
+            "trait_type": "Top",
+            "value": "1 Bull "
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/Gr5TLaEDIFUuo5ed3ySPBLStbHsbAUO4NrpM6ta4e0s?ext=png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "8vo3rYvQcLW4pD5HMkTPV9cKajsXZdkBu3B4r18drd9h",
+                "share": 45
+            },
+            {
+                "address": "7cYXHDRJVCDeorBj52YKNCuGKTJgaKgxZhZrisTXUhUD",
+                "share": 45
+            },
+            {
+                "address": "GjHbPmByVHGBGTrz6CQBXSB5tSNbu3Vwaakofbst4Ayd",
+                "share": 10
+            }
+        ]
+    },
+    "collection": {
+        "name": "2BIT Sol",
+        "family": "2BIT Sol"
+    }
+}
